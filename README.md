@@ -1,1 +1,1 @@
-The personal page for Cameron "Tillbilly" Tillman, a fella who likes coding and games.
+Hey there. I'm Cameron "Tillbilly" Tillman, a recent Computer Science graduate and former US Marine who is working to make a career change to the games industry. Barring that, I'll just make games anyways. In theory, this page will serve as a portfolio of my work; in practice it might just be where I occasionally talk about how there should be more games themed around noodlin'. 
